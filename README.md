@@ -1,0 +1,1 @@
+# Awesome-Non-Generative-Latent-Space-World-Models
